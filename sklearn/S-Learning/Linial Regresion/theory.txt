@@ -1,0 +1,6 @@
+The model of linial regresion is definited for this ecuation: 
+    Y = B0+B1x, where Bo is the Intersection and B1 the Slope.
+To Calculate the linial regresion is to minimize the distance from every point
+to straight because this distance is a error, this error is denitited for
+    ei = yi-^(yi)
+

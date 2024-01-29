@@ -1,0 +1,7 @@
+{
+    "linial_simple":{
+        "customer_id": [1, 2, 3, 4, 5],
+        "billing_amount": [100, 200, 150, 300, 250],
+        "sales": [2, 4, 3, 6, 5]
+    }
+}
